@@ -3,7 +3,7 @@
 0,HeartMode,0,,,,
 0,TLPause,,,,,
 0,SET,Loop,16,,,
-0,JMPZ,53,$Loop,,,
+0,JMPZ,54,$Loop,,,
 0,SUB,Loop,$Loop,1,,
 0,RND,Direction,4,,,
 0,RND,Jump,,,,

@@ -93,6 +93,7 @@
 0,GasterBlaster,2,640,240,499,306,180,1.25,0.45
 0,GasterBlaster,2,0,240,324,106,90,1.2,0.45
 0,GasterBlaster,2,640,240,324,506,270,1.2,0.45
-2,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
+2,SansHead,NoEyes,,,,,,,
+0,SansText,Go to HELL,,,,,,,
+0,SansHead,Default,,,,,,,
 0,EndAttack,,,,,,,,

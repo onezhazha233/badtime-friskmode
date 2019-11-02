@@ -43,10 +43,10 @@
 0,MUL,XR,$X,$SpeedR,,,,
 0,ADD,XR,323,$XR,,,,
 0,MUL,SpeedR,$SpeedR,35,,,,
-0,BoneVRepeat,$XL,257,$HeightT,0,$SpeedL,5,12.5
-0,BoneVRepeat,$XL,$YB,$HeightB,0,$SpeedL,5,12.5
-0,BoneVRepeat,$XR,257,$HeightT,2,$SpeedR,5,12.5
-0,BoneVRepeat,$XR,$YB,$HeightB,2,$SpeedR,5,12.5
+0,BoneVRepeat,$XL,257,$HeightT,0,$SpeedL,4,12.5
+0,BoneVRepeat,$XL,$YB,$HeightB,0,$SpeedL,4,12.5
+0,BoneVRepeat,$XR,257,$HeightT,2,$SpeedR,4,12.5
+0,BoneVRepeat,$XR,$YB,$HeightB,2,$SpeedR,4,12.5
 0,MUL,Jump,$Choice,2,,,,
 0,ADD,Jump,$Jump,1,,,,
 0,JMPREL,$Jump,,,,,,
@@ -59,4 +59,4 @@
 0,ADD,Total,$Total,25,,,,
 0,JMPABS,Begin,,,,,,
 0,:End,,,,,,,
-7,EndAttack,,,,,,,
+6,EndAttack,,,,,,,

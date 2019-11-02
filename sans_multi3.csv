@@ -243,6 +243,7 @@
 0,BoneVRepeat,345,280,82,0,160,200,71,
 6,JMPABS,RndAttack,,,,,,,
 0,:Attack9,,,,,,,,
+0,ComBatZoneResizeInstant,241,226,406,391
 0,GasterBlaster,1,0,0,189,246,0,0.15,6
 0,GasterBlaster,1,0,0,259,166,90,0.15,6
 0,GasterBlaster,1,640,480,449,366,180,0.15,6

@@ -20,5 +20,5 @@
 0,MUL,Y,$Y,40,,,,,
 0,ADD,Y,$Y,285,,,,,
 0,GasterBlaster,0,0,0,73,$Y,0,1.5556,0.1
-0.9,JMPNZ,13,$Loop,,,,,,
+0.9,JMPNZ,14,$Loop,,,,,,
 3,EndAttack,,,,,,,,

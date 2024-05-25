@@ -2,7 +2,7 @@
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
 0,TLPause,,,,,,,,
-0,SET,Loop,16,,,,,,
+0,SET,Loop,6,,,,,,
 0,:RndAttack,,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
@@ -57,7 +57,7 @@
 0,BoneV,32,286,100,0,320,0,,
 0,BoneV,482,286,100,2,320,1,,
 0,BoneV,608,286,100,2,320,0,,
-1.05,JMPABS,RndAttack,,,,,,,
+0.7,JMPABS,RndAttack,,,,,,,
 0,:Attack2,,,,,,,,
 0,CombatZoneResizeInstant,171,276,476,391,,,,
 0,HeartMode,1,,,,,,,
@@ -245,7 +245,7 @@
 0,:Attack9,,,,,,,,
 0,GasterBlaster,1,0,0,189,246,0,0.15,6
 0,GasterBlaster,1,0,0,259,166,90,0.15,6
-0,GasterBlaster,1,640,480,449,366,180,0.15,6
+0,,,,,,,,,
 0,GasterBlaster,1,640,480,379,446,270,0.15,6
 0,BoneV,323,650,100000,3,165,2,,
 0,BoneV,313,650,100000,3,165,2,,
